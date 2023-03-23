@@ -1,0 +1,35 @@
+body {
+    color: #5DB8A4;
+    background-color: #E0EBE8;
+    margin: 0;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+}
+h1 {
+    margin-top: 0;
+    padding-top: 70px;
+    font-family: 'Sacramento', cursive;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.top-conteiner {
+    margin-top: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+.nuvem-superior{
+    position : absolute;
+    right: 30%;
+}
+.nuvem-inferior{
+    position : absolute;
+    left : 30%;
+}
