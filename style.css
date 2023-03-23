@@ -1,5 +1,4 @@
 body {
-    color: #5DB8A4;
     background-color: #E0EBE8;
     margin: 0;
     font-family: 'Merriweather', serif;
@@ -9,14 +8,17 @@ h1 {
     margin-top: 0;
     padding-top: 70px;
     font-family: 'Sacramento', cursive;
+    color: #5DB8A4;
 }
 
 h2{
     font-family: 'Montserrat', sans-serif;
+    color: #4AB19A
 }
 
 h3{
     font-family: 'Montserrat', sans-serif;
+    color: #5DB8A4;
 }
 
 .top-conteiner {
